@@ -1,7 +1,7 @@
 {
   "name": "github-gql",
-  "version": "1.0.1",
-  "description": "A fully typed GraphQL client for the Github V4 API",
+  "version": "1.0.2",
+  "description": "A fully typed GraphQL client for the Github v4 API",
   "author": "Ryan Pate",
   "license": "MIT",
   "private": false,

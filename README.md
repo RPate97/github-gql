@@ -7,6 +7,11 @@ An end-to-end type-safe JavaScript client for the GitHub v4 GraphQL API.
 - No requirement for any external type generation process
 - Zero dependencies
 
+## Installation
+```bash
+npm install github-gql
+```
+
 ## Usage
 ```typescript
 import { GithubGql } from 'github-gql'
