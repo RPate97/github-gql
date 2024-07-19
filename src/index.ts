@@ -1,5 +1,4 @@
 import { Client, createClient, FieldsSelection, Mutation, MutationGenqlSelection, Query, QueryGenqlSelection } from "./generated";
-import { fetch } from "undici"; // or node-fetch
 
 export type ConfigOptions = {
   accessToken: string

@@ -1,4 +1,4 @@
-import { GithubGql } from '../dist/index'
+import { GithubGql } from '../dist/index.cjs'
 
 const example = async (): Promise<void> => {
   const client = new GithubGql({

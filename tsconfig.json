@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "NodeNext",
+    "module": "ES2015",
     "target": "ES2015",
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "node",
     "sourceMap": true,
     "esModuleInterop": true,
     "composite": true,
