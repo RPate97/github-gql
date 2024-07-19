@@ -19,7 +19,7 @@ const example = async (): Promise<void> => {
 
   // Call the query endpoint
   const result = await client.query({
-    // Specify your graphql query form
+    // Specify your graphql query with complete type safety
     repository: {
       __args: {
         name: 'github-gql',
